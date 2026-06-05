@@ -27,6 +27,23 @@ This project aims to:
 * Data Modeling
 * Data Visualization
 
+## Dashboard Preview
+
+### NPA Risk Breakdown
+
+![NPA Risk Breakdown](./powerbi%20yes%20bank%20project%20NPA%20Risk%20Breakdown%20page.png)
+
+### Profitability & Lending Analysis
+
+![Profitability & Lending](./powerbi%20yes%20bank%20project%20Lending%20%26%20Profitablity%20page.png)
+
+### Recovery Simulation
+
+![Recovery Simulation](./powerbi%20yes%20bank%20project%20Recovery%20simulation%20page.png)
+
+### Recommendations
+
+![Recommendations](./powerbi%20yes%20bank%20project%20Recommendation%20page.png)
 ## Dashboard Pages
 
 ### 1. NPA Risk Breakdown
